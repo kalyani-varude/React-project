@@ -1,0 +1,36 @@
+.part {
+    width: 1420px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .p1 {
+    width: 820px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .im1,
+  .im2,
+  .im3,
+  .im4 {
+    margin: 10px;
+  }
+  
+  .p2 {
+    width: 700px;
+    margin: 10px;
+  }
+  
+  .row {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .row1,
+  .row2 {
+    display: flex;
+    justify-content: space-evenly;
+  }
