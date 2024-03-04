@@ -9,10 +9,7 @@ import Card from './component/Card';
 import Cardarray from "./component/Cardarray";
 import About_section from "./component/About_section";
 import Food_menu from './component/Food_menu';
-import Food_menu2 from './component/Food_menu2';
-import Food_menu2array from './component/Food_menu2array'
 import Videoandform_section from './component/Videoandform_section';
-import Controlform from './component/Controlform';
 import Team_members from './component/Team_members';
 export default function App() {
   return( 
